@@ -1,0 +1,1 @@
+Tiny software package to produce gravitational lens images, to support a Stanford CS230 student project.
